@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raj, an enthusiastic software enginner. I love learning new technologies.
+- 👋 Hi, I’m Raj, an enthusiastic software engineer, I love learning new technologies.
 - 👀 I’m interested in MERN development.
 - 🌱 I’m currently learning mongo,mongoose,express.js,react.js and node.js.
 - 💞️ I’m looking to collaborate on MERN projects
